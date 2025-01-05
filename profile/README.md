@@ -29,7 +29,19 @@ We’re passionate about providing tools that make life easier for creators whil
 ---
 
 ## 🛠️ Tech Stack  
-*(Details coming soon)*  
+- **Frontend**:  
+  - **Next.js**  
+  - **TypeScript**  
+  - **Tailwind CSS**  
+  - **Framer Motion**  
+  - **Clerk.js**  
+  - **React Query**  
+  - **Axios**  
+  - **Formik**  
+  - **Yup**  
+
+- **Payments**:  
+  - **Razorpay**  
 
 ---
 
