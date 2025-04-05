@@ -1,6 +1,6 @@
 # Insturix - Building Future Together 🚀  
 
-Insturance is redefining the creator economy by offering innovative SaaS solutions tailored for influencers, content creators, and businesses.  
+Insturix is redefining the creator economy by offering innovative SaaS solutions tailored for influencers, content creators, and businesses.  
 
 ---
 
